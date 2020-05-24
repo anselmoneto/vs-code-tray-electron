@@ -3,7 +3,7 @@
   "description": "Open VSCode projects from tray menu.",
   "version": "1.0.0",
   "main": "main.js",
-  "repository": "https://github.com/anselmoneto/vs-code-tray",
+  "repository": "https://github.com/anselmoneto/vs-code-tray-electron",
   "author": "Anselmo Neto <anselmo.otero@gmail.com>",
   "license": "MIT",
   "scripts": {
